@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/b84af119-5d14-4849-85da-518f3a4b5e66" alt="Kontrol Logo" width="180" />
-</p>
+<img src="https://github.com/user-attachments/assets/b84af119-5d14-4849-85da-518f3a4b5e66" alt="Kontrol Logo" width="180" />
 
 ## 🚀 Sobre
 
@@ -17,6 +15,7 @@ Este é o repositório central do projeto **Kontrol**, onde você encontrará in
 ## 📦 Funcionalidades
 
 - **Gerenciamento de Lançamentos**: Registre entradas, saídas e categorize suas finanças.
-- **Relatórios e Resumo**: Consulte relatórios de entradas e saídas para um controle financeiro completo.
+- **Altamente personalizável**: O Kontrol se adapta ao seu estilo, escolha entre diversos temas para deixá-lo com a sua cara.
+- **Múltiplos usuários**: Crie quantos usuários quiser e facilite o gerenciamento das suas finanças.
 - **Armazenamento de Dados**: Todos os dados são armazenados de maneira segura em banco de dados PostgreSQL.
 
